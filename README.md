@@ -25,3 +25,4 @@
 
 
 ![Recordit GIF](http://g.recordit.co/iLN6A0vSD8.gif)
+![App Widget](https://codelabs.developers.google.com/codelabs/advanced-android-training-widgets/img/3eae90d32f6f193e.png)

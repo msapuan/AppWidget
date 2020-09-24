@@ -19,3 +19,8 @@
 > Untuk file project resmi kalian bisa kunjungi githubnya disini
 
 [AppWidgetSample](https://github.com/google-developer-training/android-advanced/tree/master/AppWidgetSample "AppWidgetSample")
+
+## Preview
+> Contoh dari AppWidget ini nantinya akan seperti ini
+
+[![App Widget](https://codelabs.developers.google.com/codelabs/advanced-android-training-widgets/img/3eae90d32f6f193e.png]

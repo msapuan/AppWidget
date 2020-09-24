@@ -23,4 +23,4 @@
 ## Preview
 > Contoh dari AppWidget ini nantinya akan seperti ini
 
-<!-- [![App Widget](https://codelabs.developers.google.com/codelabs/advanced-android-training-widgets/img/3eae90d32f6f193e.png] -->
+[![App Widget](https://codelabs.developers.google.com/codelabs/advanced-android-training-widgets/img/3eae90d32f6f193e.png]()
